@@ -13,7 +13,6 @@
   <h3 align="center">AI Podcast Platform</h3>
 
    <div align="center">
-     Follow our step-by-step tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube to build this project.
     </div>
 </div>
 
